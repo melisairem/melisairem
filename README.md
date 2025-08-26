@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩‍💻 Merhaba, ben Melisa İrem ÇIK
 
-<!--
-**melisairem/melisairem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Hitit Üniversitesi Bilgisayar Mühendisliği (2025) mezunuyum.  
+💻 ASP.NET MVC ve C# ile çok katmanlı mimari projeler geliştirdim.  
+🤖 Python ile yapay zekâ ve web scraping çalışmaları yaptım.  
+🗄️ MSSQL & MySQL veritabanı yönetimi konusunda deneyimliyim.  
+🌱 Sürekli öğrenmeye ve backend & web teknolojilerinde kendimi geliştirmeye açığım.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kullandığım Teknolojiler
+- C#, ASP.NET MVC, .NET Core  
+- MSSQL, MySQL  
+- Python (AI & Web Scraping)  
+- HTML, CSS, JavaScript  
+
+---
+
+## 🔗 Bağlantılarım
+- [🌍 LinkedIn](https://www.linkedin.com/in/melisa-irem-%C3%A7%C4%B1k-1a2419250/)  
+- [💻 GitHub](https://github.com/melisairem)  
